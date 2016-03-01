@@ -1,0 +1,12 @@
+{
+    "name": "ydentidad/fate",
+    "description": "Administration Commands",
+    "authors": [
+        {
+            "name": "Coccaro Daniel",
+            "email": "coccaro.daniel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
